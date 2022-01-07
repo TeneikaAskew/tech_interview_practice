@@ -1,0 +1,4 @@
+scipy
+sqlalchemy
+ipython-sql 
+pgspecial
